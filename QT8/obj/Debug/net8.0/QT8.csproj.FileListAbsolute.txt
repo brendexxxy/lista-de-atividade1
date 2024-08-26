@@ -1,0 +1,15 @@
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\build\QT8.exe
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\build\QT8.deps.json
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\build\QT8.runtimeconfig.json
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\build\QT8.dll
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\build\QT8.pdb
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.AssemblyInfo.cs
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.sourcelink.json
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.dll
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\refint\QT8.dll
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.pdb
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\QT8.genruntimeconfig.cache
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de exercicio\QT8\obj\Debug\net8.0\ref\QT8.dll
