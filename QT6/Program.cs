@@ -30,10 +30,9 @@ class Program
         Console.Write("Digite o bônus de conversão de habilidades: ");
         double.TryParse(Console.ReadLine(), out bonusHabilidades);
 
-        double fatorConversao =  + bonusEvento + bonusHabilidades;
 
      
-        double cristaisObtidos =  (moedasOuro / taxaConversao) * fatorConversao;
+        double cristaisObtidos =  ((moedasOuro / taxaConversao) * bonusHabilidades)*bonusEvento;
       
         Console.WriteLine($"O número de cristais que o jogador pode obter é: {cristaisObtidos}");
     }
